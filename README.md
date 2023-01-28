@@ -1,6 +1,8 @@
+
+
 ### Hi there welcome to my page👋.
 
-My name is Abdul Aziz and by profession i am Chartered Engineer and recently completed course on Data Science
+My name is Abdul Aziz and by profession I am Chartered Engineer and have recently completed course on Data Science
 
 <!--
 **abdulazizmsc/abdulazizmsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
