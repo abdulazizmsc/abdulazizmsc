@@ -1,4 +1,4 @@
-https://github.com/abdulazizmsc/abdulazizmsc/blob/main/Logo-01.png
+![Data Science and Machine Learning](https://github.com/abdulazizmsc/abdulazizmsc/blob/main/Logo-01.jpg)
 
 ### Hi there welcome to my page👋.
 
