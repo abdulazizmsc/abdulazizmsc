@@ -10,7 +10,7 @@ Please check my profile on Linkedin and HyperionDev
 
 ### HyperionDev: https://www.hyperiondev.com/portfolio/102109/
 
-As part of this course I build many skill around Data Science and Machine language for example
+As part of this course I built many skill around Data Science and Machine Learning for example
 
 #### 1. Python
 #### 2. Jupyer Notebook
