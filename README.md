@@ -22,7 +22,7 @@ As part of this course I built many skill around Data Science and Machine Learni
 
 I am open for any short or long term project where i can provide professional service based on your need around Data Science
 
-I am registerd on upwork as freelancer 
+I am registered on upwork as freelancer 
 https://www.upwork.com/freelancers/~01e3cf906d82ea86d5?viewMode=1
 
 If you have any question, dont hesitate to contact me
