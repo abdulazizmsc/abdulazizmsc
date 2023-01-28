@@ -1,4 +1,4 @@
-https://github.com/abdulazizmsc/abdulazizmsc/blob/main/Logo-01.jpg
+https://github.com/abdulazizmsc/abdulazizmsc/blob/main/Logo-01.png
 
 ### Hi there welcome to my page👋.
 
